@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Deepika
-- 👀 I’m interested in NLP
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ML/NLP
-  
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning  Data Structures and Algorithms
+- 
 
 <!---
 Deepi-30/Deepi-30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
